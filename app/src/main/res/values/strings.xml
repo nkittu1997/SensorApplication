@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">COVID\'19 Monitoring</string>
+    <string-array name="symptoms_array">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Tiredness</item>
+    </string-array>
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="loginLabel">Login</string>
+    <string name="signupLabel">Sign Up</string>
+    <string name="loginReg">Choose Username</string>
+    <string name="password1Reg">Choose Password</string>
+    <string name="password2Reg">Re-Type Password</string>
+    <string name="choose_username">Choose Username</string>
+    <string name="choose_password">Choose Password</string>
+    <string name="re_type_password">Re-Type Password</string>
+    <string name="user_name">User Name</string>
+    <string name="signup">SignUp</string>
+</resources>
